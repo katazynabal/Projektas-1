@@ -1,0 +1,273 @@
+* {
+	font-family: 'Lato', sans-serif;
+	font-family: 'Raleway', sans-serif;
+}
+
+
+                                                       /*Header*/
+
+header {
+    width: 100%;
+    height: 6vw;
+    background: white;
+    color: gray;
+    position: relative;
+    border-bottom: 2px solid #D5E8E6;
+}
+
+a {
+    display: inline-block;
+    color: #4A4A4A;
+    font-size: 0.75vw;
+    font-weight: 700;
+    margin-right: 2vw;
+    text-decoration: none;
+    margin-top: 1.5vw;
+}
+
+.pirma, .antra, .trecia {
+	font-size: 2vw;
+	font-family: Rambla,sans-serif;
+}
+
+.pirma {
+	margin-left: 4vw;
+	color: #343a40;
+	font-weight: 800;
+}
+
+.antra {
+    color: #51A599;
+    margin-left: -0.25vw;
+}
+
+.trecia {
+	margin-right: 35vw;
+	color: #343a40;
+	margin-left: -0.25vw;
+}
+
+
+
+
+                                                        /*Forma*/
+
+.forma {
+    margin-top: 2vw;
+    margin-left: 35%;
+    padding: 1.5vw;
+    border: 1px solid lightgray;
+    box-shadow: 5px 20px 40px rgba(0, 0, 0, .1);
+    width: 28%;
+    position: absolute;
+    opacity: 0.7;
+    background-color: #cccccc;
+    background-image: linear-gradient(#55A79A, #D5E8E6 );
+    opacity: 0.8;
+    border-radius: 3px;
+}
+
+.clearfix {
+	clear:both;
+}
+
+.forma h1 {
+	font-size: 1.5vw;
+	font-weight: 700;
+	margin-left: 1.5vw;
+	border-bottom: 4px solid lightgray;
+}
+
+[placeholder] {
+	color: #50494a;
+	font-weight: 700;
+}
+
+
+.one {
+	font-weight: 800;
+	color: #928788;
+	font-size: 1vw;
+	margin-left: 1.5vw;
+}
+ .two {
+	font-weight: 800;
+	color: #55A79A;
+	font-size: 1vw;
+}
+
+.three {
+	font-weight: 800;
+	color: #928788;
+	font-size: 1vw;
+}
+
+.stick {
+	font-weight: 900;
+	color: #928788;
+	font-size: 1vw;
+	margin-left: 1vw;
+	float:left;
+
+}
+
+.four {
+	font-weight: 800;
+	color: #55A79A;
+	font-size: 1vw;
+	float:left;
+	margin-left:1vw;
+}
+
+
+
+input[text] {
+	width: 90%;
+	height: 2vw;
+	padding: 1vw;
+	margin-bottom: 1vw;
+	border:2px solid lightgray;
+	margin-left:1.5vw;
+}
+
+input[type=submit] {
+	background: #55A79A;
+	width: 3vw;
+	height: 2vw;
+	color: white;
+	float: left;
+	margin-left: 1.5vw;
+	margin-top:0.5vw;
+    font-size:0.75vw;
+}
+
+
+
+														/*Box*/
+
+
+                                                     
+
+.box {
+	height:9vw;
+	background: #55A79A;
+	margin-top:21.25vw;
+}
+
+
+.top {
+    margin-top:4vw;
+}
+
+
+
+.un {
+    color: white;
+    font-size: 2.5vw;
+    font-weight: 900;
+    text-shadow: 2px 2px lightgray;
+}
+
+.dos {
+    color: #33625C;
+    font-size: 2.5vw;
+    font-weight: 900;
+}
+
+.slash {
+    color: #33625C;
+}
+
+
+.box p {
+    color: white;
+    font-weight: 900;
+    margin-left: 5vw;
+    line-height: 90%;
+    font-size: 18px;
+}
+
+.top {
+    padding-top:2.25vw;
+}
+
+
+
+.round {
+    float: right;
+    margin-right: 5vw;
+    margin-top: -2.75vw;
+    color: white;
+    font-weight: 900;
+    font-size: 1vw;
+    background: #43847B;
+    padding: 1vw 1.5vw;
+    border-top-left-radius: 40px;
+    border-top-right-radius: 40px;
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius:40px;
+}
+
+.round:hover {
+    background: #292B2C;
+}
+
+
+
+                                                    /*Footer*/
+footer {
+    background: #292B2C;
+    width: 100%;
+    height: 13.20vw;
+    color: white;
+}
+
+.contact, .about, .newsletter {
+    float: left;
+    margin-left: 5vw;
+    font-weight: 900;
+    font-size: 0.90vw;
+    margin-top: 2vw;
+    border-spacing: 0 5px;
+    line-height: 70%;
+}
+
+.about {
+    margin-left:12vw;
+    margin-right:12vw;
+}
+
+input[text=Emailas] {
+    margin-left:0vw;
+    width:17vw;
+    float:left;
+}
+
+.go input {
+    margin-left:-1vw;
+    height:2.20vw;
+    float:left;
+    margin-top:0vw;
+    border-radius:3px;
+
+}
+
+.contact p, .about p, .newsletter p {
+    color: #B0B0B0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
